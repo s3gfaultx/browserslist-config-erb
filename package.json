@@ -1,0 +1,12 @@
+{
+  "name": "browerslist-config-erb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~7.1.10"
+  },
+  "peerDependencies": {
+    "electron": "~7.1.10"
+  }
+}
